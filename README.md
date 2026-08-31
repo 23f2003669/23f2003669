@@ -46,8 +46,8 @@ Pursuing <b>B.Sc. (Hons.) Statistics</b> at Delhi University (SRCASW) & <b>BS Da
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=23f2003669&show_icons=true&theme=dark&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f2003669&layout=compact&theme=dark&hide_border=true"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=23f2003669&show_icons=true&theme=dark&hide_border=true"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=23f2003669&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
